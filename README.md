@@ -1,7 +1,7 @@
 # KwintuszPublic
 
-imie
-klasa
+imie Mateusz Józef
+klasa 4i
 partner (login)
 
 
@@ -10,3 +10,4 @@ main:              ■ —— ■ —— ■
                            \
 gałąź poprawka:             ■ —— ■  
 ```
+Hasło dnia: ŚLIWKA
