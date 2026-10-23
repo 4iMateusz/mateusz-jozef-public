@@ -10,3 +10,5 @@ main:              ■ —— ■ —— ■
                            \
 gałąź poprawka:             ■ —— ■  
 ```
+
+Hasło dnia: GRUSZKA
